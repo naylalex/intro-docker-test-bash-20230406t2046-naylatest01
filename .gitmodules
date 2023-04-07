@@ -1,0 +1,6 @@
+[submodule "repos/wordsmith"]
+	path = repos/wordsmith
+	url = https://github.com/jpetazzo/wordsmith
+[submodule "repos/getting-started"]
+	path = repos/getting-started
+	url = https://github.com/docker/getting-started.git
